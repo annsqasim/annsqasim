@@ -3,7 +3,7 @@
 
 <p align="center">
   Building <b>Westay</b> (luxury travel platform) as Senior Frontend Engineer & Team Lead at
-  <b>Almosafer</b> — plus founder of <b>TheHalalExplorer</b>, a live, monetised travel platform.
+  <b>Almosafer</b> plus founder of <b>TheHalalExplorer</b>, a live, monetised travel platform.
 </p>
 
 <p align="center">
