@@ -31,7 +31,7 @@
 
 ### 📌 A bit more about me
 
-12 years in JavaScript/frontend engineering, currently based in Dubai and exploring senior/lead frontend and fullstack roles in Berlin and Switzerland. I like taking products from zero to one — Westay and TheHalalExplorer are both examples of that, one as a team lead inside a company, one as an independent owner-operator.
+12 years in JavaScript/frontend engineering, currently based in Dubai and exploring senior/lead frontend and fullstack roles in Berlin and Switzerland. I like taking products from zero to one Westay and TheHalalExplorer are both examples of that, one as a team lead inside a company, one as an independent owner-operator.
 
 ---
 
