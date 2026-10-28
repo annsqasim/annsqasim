@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Anns 👋</h1>
-<h3 align="center">Senior Frontend Engineer · Frontend-led Full-Stack · Dubai, UAE</h3>
+<h3 align="center">Senior Fullstack Engineer</h3>
 
 <p align="center">
-  Building <b>Westay</b> (luxury travel platform) as Senior Frontend Engineer & Team Lead at
+  Building <b>Westay</b> (luxury travel platform) as Senior Fullstack Engineer & Team Lead at
   <b>Almosafer</b> plus founder of <b>TheHalalExplorer</b>, a live, monetised travel platform.
 </p>
 
