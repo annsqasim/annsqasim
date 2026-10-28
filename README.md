@@ -16,7 +16,7 @@
 
 ### 🚀 What I'm working on
 
-- **Westay** — Luxury travel platform, built from zero to one as Senior Frontend Engineer & Team Lead.
+- **Westay** — Luxury travel platform, built from zero to one as Senior Fullstack Engineer & Team Lead.
   `React 18` `TypeScript` `Vite` `Tailwind` `Zustand` `NestJS (BFF)` `Redis` `PostgreSQL` `Azure`
 - **TheHalalExplorer** — Halal travel platform I own and operate end-to-end: content, SEO, affiliate revenue, and infra.
   `Next.js (App Router)` `TypeScript` `Sanity v3` `Vercel`
